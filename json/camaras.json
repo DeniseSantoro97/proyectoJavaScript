@@ -1,0 +1,11 @@
+[
+    { "id" : 1, "marca" : "kodak", "nombreProdu" : "Kodak PIXPRO AZ901", "precio" : 70000, "imagen" : "public/images/Kodak1.jpg" },
+    { "id": 2, "marca" : "canon", "nombreProdu" : "Canon PowerShot G5 X", "precio" : 80000, "imagen" : "public/images/Canon1.jpg" }, 
+    { "id" : 3, "marca" : "canon", "nombreProdu" : "Canon EOS 80D DSLR", "precio" : 170000, "imagen" : "public/images/Canon2.jpg" }, 
+    { "id" : 4, "marca" : "canon", "nombreProdu" : "Canon EOS 7D DSLR", "precio" : 190000, "imagen" : "public/images/Canon3.jpg"}, 
+    { "id" : 5, "marca" : "canon", "nombreProdu" : "Canon EOS 5D Mark IV DSLR", "precio" : 320000, "imagen" : "public/images/Canon4.jpg"},
+    { "id": 6, "marca" : "sony", "nombreProdu" : "Sony a7 II Mirrorless", "precio" : 170000, "imagen" : "public/images/Sony1.jpg" }, 
+    { "id": 7, "marca" : "sony", "nombreProdu" : "Sony Cyber-shot DSC-RX10 IV", "precio" : 200000, "imagen" : "public/images/Sony2.jpg" },
+    { "id" : 8, "marca" : "sony", "nombreProdu" : "Sony Alpha a6400 Mirrorless", "precio": 310000, "imagen" : "public/images/Sony3.jpg" }, 
+    { "id" : 9, "marca" : "sony", "nombreProdu" : "Sony Cyber-shot DSC-RX1R II", "precio" : 350000, "imagen" : "public/images/Sony4.jpg" }
+]

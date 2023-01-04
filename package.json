@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^11.4.24"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "node-sass --include-path scss scss/file.scss css/filecss.css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+  },
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
